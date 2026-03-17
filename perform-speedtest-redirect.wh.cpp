@@ -2,9 +2,10 @@
 // @id              perform-speedtest-redirect
 // @name            Perform Speed Test Redirect
 // @description     Redirects the "Perform speed test" link in the taskbar network right-click menu from the default Microsoft page to a custom URL (defaults to speedtest.net).
-// @version         1.2.0
+// @version         1.2.1
 // @author          mynameistito
-// @github          https://github.com/mynameistito/windhawk-perform-speedtest
+// @github          https://github.com/mynameistito
+// @license         MIT
 // @include         explorer.exe
 // @include         ShellExperienceHost.exe
 // @include         RuntimeBroker.exe
